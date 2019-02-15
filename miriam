@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mijn project</title>
+	<link rel="stylesheet" type="text/css" href="mijnproject.css">
+</head>
+<body>
+
+<h1>Dieren in Nederland!</h1>
+<div class=".container">
+<img src="http://i65.tinypic.com/11qjpe8.jpg">
+<img src="http://i63.tinypic.com/1gpwki.jpg">
+<img src="http://i68.tinypic.com/14sz8eb.jpg">
+<img src="http://i64.tinypic.com/x9bo6.jpg">
+<img src="http://i67.tinypic.com/2wo9cpd.jpg">
+<img src="http://i66.tinypic.com/68d16w.jpg">
+
+
+</div>
+</body>
+</html>
